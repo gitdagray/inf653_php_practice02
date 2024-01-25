@@ -229,7 +229,6 @@ $blt = array("bacon", "lettuce", "tomato", "toast", "mayo");
     <script>
     mocha.run();
     </script>
-    <script src="https://serene-roentgen-345cd7.netlify.app/util/inf653_php_signup_util.min.js"></script>
     <script src="https://serene-roentgen-345cd7.netlify.app/util/inf653_php_util.min.js"></script>
 
 </body>
